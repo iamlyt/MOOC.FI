@@ -45,10 +45,10 @@ Projects &amp; Exercises from MOOC.FI Java Programming Course
   
  ## Java Programming II
  - Part 8: 
-  - Hash Map
-  - Similarity of objects (HashCode + equals())
-  - Grouping data using hash maps
-  - Fast data fetching and grouping information
+    - Hash Map
+    - Similarity of objects (HashCode + equals())
+    - Grouping data using hash maps
+    - Fast data fetching and grouping information
 - Part 9: 
   - Inheritance 
   - Interfaces
